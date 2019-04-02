@@ -52,6 +52,12 @@ However if the license plate is not detected you will have to change this index 
 ![](https://i.imgur.com/1Lk4muI.png)
 
 
+## References
+
+[SQUARE](https://blog.devcenter.co/developing-a-license-plate-recognition-system-with-machine-learning-in-python-787833569ccd)
+[femioladeji](https://github.com/femioladeji/License-Plate-Recognition-Nigerian-vehicles)
+
+
 ## Any kind of contribution for this project is welcome.. :D
 
 #happyCoding
