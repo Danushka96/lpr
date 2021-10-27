@@ -1,6 +1,6 @@
 cloudpickle==0.8.1
 cycler==0.10.0
-dask==1.1.5
+dask==2021.10.0
 decorator==4.4.0
 Keras-Applications==1.0.6
 Keras-Preprocessing==1.0.5
