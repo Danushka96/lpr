@@ -7,7 +7,7 @@ Keras-Preprocessing==1.0.5
 kiwisolver==1.0.1
 matplotlib==3.0.3
 networkx==2.2
-numpy==1.16.2
+numpy==1.22.0
 opencv-python==4.0.0.21
 Pillow==6.2.0
 pyparsing==2.3.1
